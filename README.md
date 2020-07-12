@@ -4,7 +4,7 @@
 ```
 docker-compose up -d
 ```
-Strapi URL - `localhost:1337`
+Strapi URL - `localhost:1337/admin`
 
 ## To Tear Down
 ```
